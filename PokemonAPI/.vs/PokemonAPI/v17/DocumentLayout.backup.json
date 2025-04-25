@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\data\\pokemonseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\data\\pokemonseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\controller\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\controller\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\pokemonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\pokemonapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\nielh\\source\\repos\\midterm_ho2_pokemon_back_end\\pokemonapi\\pokemonapi\\data\\pokemondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCD2C68-43E4-46CC-9A3B-9E3A3D90CD30}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\data\\pokemondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PokemonAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PokemonAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T22:32:18.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Controller\\PokemonController.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Controller\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Controller\\PokemonController.cs",
+              "RelativeToolTip": "PokemonAPI\\Controller\\PokemonController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T22:00:54.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Data\\PokemonSeeder.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Data\\PokemonSeeder.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Data\\PokemonSeeder.cs",
+              "RelativeToolTip": "PokemonAPI\\Data\\PokemonSeeder.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswIcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:40:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Program.cs",
+              "RelativeToolTip": "PokemonAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:19:01.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PokemonAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\appsettings.json",
+              "RelativeToolTip": "PokemonAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T21:15:25.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PokemonAPI",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\PokemonAPI.csproj",
+              "RelativeDocumentMoniker": "PokemonAPI\\PokemonAPI.csproj",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\PokemonAPI.csproj",
+              "RelativeToolTip": "PokemonAPI\\PokemonAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T21:14:04.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PokemonDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Data\\PokemonDbContext.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Data\\PokemonDbContext.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Data\\PokemonDbContext.cs",
+              "RelativeToolTip": "PokemonAPI\\Data\\PokemonDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:14:18.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\nielh\\source\\repos\\MIDTERM_HO2_POKEMON_BACK_END\\PokemonAPI\\PokemonAPI\\Models\\Pokemon.cs",
+              "RelativeToolTip": "PokemonAPI\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:13:26.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
